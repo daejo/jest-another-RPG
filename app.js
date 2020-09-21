@@ -1,0 +1,1 @@
+//TYPED IN TERMINAL TO INSTALL JEST: npm install jest --save-dev
