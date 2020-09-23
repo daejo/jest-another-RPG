@@ -5,7 +5,7 @@
 
   ## Description 
 
-  _fsafafsaf_
+  _A text based RPG game where you face enemy after enemy battling and rushing through victory._
  
   ## Table of Contents
 
